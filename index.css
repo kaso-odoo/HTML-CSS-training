@@ -1,0 +1,40 @@
+.container{
+    border:solid;
+    margin: 0px 0px 0px 0px;
+    background-color: whitesmoke;
+}
+
+.info{
+    width:250px;
+    height:150px; 
+    padding:1cm 1cm;
+}
+
+img{
+    border:solid 2px;
+    width: 200px;
+    position: absolute;
+    right:4%;top: 5%;
+}
+
+.details{
+        padding: 0cm 1cm;
+
+}
+
+.form{
+    
+    padding: 0cm 1cm 1cm;
+}
+
+#submit{
+    background-color: coral;
+}
+
+#reset{
+    background-color: aqua;
+}
+
+#star{
+    color: red;
+}
